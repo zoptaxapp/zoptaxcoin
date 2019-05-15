@@ -1,0 +1,2 @@
+debian/bin/zoptaxd usr/bin
+src/zoptaxd usr/lib/zoptax

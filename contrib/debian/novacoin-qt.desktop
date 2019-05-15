@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=zoptax
+Comment=zoptax P2P Cryptocurrency
+Comment[fr]=zoptax, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=zoptax, eşten eşe kriptografik sanal para birimi
+Exec=/usr/bin/zoptax-qt
+Terminal=false
+Type=Application
+Icon=/usr/share/pixmaps/bitcoin80.xpm
+MimeType=x-scheme-handler/zoptax;
+Categories=Office;

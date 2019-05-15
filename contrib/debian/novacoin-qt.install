@@ -1,0 +1,5 @@
+zoptax-qt usr/bin
+share/pixmaps/bitcoin32.xpm usr/share/pixmaps
+share/pixmaps/bitcoin80.xpm usr/share/pixmaps
+debian/zoptax-qt.desktop usr/share/applications
+debian/zoptax-qt.protocol usr/share/kde4/services/
